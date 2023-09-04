@@ -21,6 +21,8 @@ git clone to your local machine
 ## Usage
 npm i && node index.js
 
+See a walkthrough of its features here: https://www.youtube.com/watch?v=-baIhm3jAK0
+
 ## License
 readme-generator is released under the terms of the [MIT License](https://spdx.org/licenses/MIT.html)
 
